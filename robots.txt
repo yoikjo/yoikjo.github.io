@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yoikjo.github.io/sdV/sitemap.sdV.gz
